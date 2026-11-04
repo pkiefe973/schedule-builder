@@ -1,0 +1,8 @@
+{
+  "name": "schedule-builder-poc",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Shared editorial schedule builder POC for X1, Xfinity XSB, and Stream",
+  "scripts": {"dev": "node --watch server.js", "start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
